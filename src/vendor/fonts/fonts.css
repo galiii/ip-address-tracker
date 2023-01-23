@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Rubik Light";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("./Rubik/static/Rubik-Light.ttf") format("ttf");
+}
